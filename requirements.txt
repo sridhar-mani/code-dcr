@@ -1,0 +1,6 @@
+numpy>=1.22
+requests>=2.26
+torch>=2.0.0
+torch-geometric>=2.3.0
+networkx>=3.0
+scikit-learn>=1.2.0
