@@ -37,3 +37,8 @@ Download or OOD quirks still emit `warnings` on stderr unless you filter them.
 ## License
 
 AGPL-3.0-or-later. Full text in `LICENSE`. Header in `code_dcr.py` has SPDX lines for reuse tooling.
+
+**Research Paper:** [Download Code-DCR Preprint (PDF)](./Code_DCR.pdf)  
+*Note: This architecture is currently undergoing arXiv endorsement/submission for the cs.AI category.*
+
+**© 2026 Sridhar Mani. All Rights Reserved.** *(The AGPL-3.0 license below applies to the code. The PDF manuscript is protected prior art).*
