@@ -1,4 +1,4 @@
-# Code-DCR reference script
+# Code-DCR
 
 This is the supplementary script that goes with the paper. The layout is minimal: `code_dcr.py`, `LICENSE`, `requirements.txt`, plus this file.
 
